@@ -1,0 +1,3 @@
+cd ~/dct-policy
+source venv/bin/activate
+python3.6 run_col.py < $1
